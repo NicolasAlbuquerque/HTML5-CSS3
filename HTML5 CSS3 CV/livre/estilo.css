@@ -1,0 +1,46 @@
+body {
+        background-color: black;
+        align-content: center;
+     }
+h1  { 
+    color: gold;   
+    text-align: center;
+    }     
+p {
+    color: whitesmoke;
+    font-family: arial;
+    font-size: 15px;
+    text-align: center;
+}    
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   border:  solid #F00;
+    
+    
+}
+
+li {
+    color: antiquewhite;
+    display: contents;
+    font-size: large;
+    text-align: center;
+}
+
+h2 {
+    color: antiquewhite;
+    text-align: center;
+}
+ 
+ol  {
+    color: antiquewhite;
+    display: contents;
+    font-size: large;
+    display: block;
+    margin-left: 50%;
+    
+
+
+
+    }
